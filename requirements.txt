@@ -1,0 +1,10 @@
+# requirements.txt - Placeholder
+
+datasets
+transformers
+torch
+numpy
+pandas
+scikit-learn
+streamlit
+rouge-score
